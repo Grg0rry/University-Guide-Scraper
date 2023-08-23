@@ -1,4 +1,4 @@
-# Complete University Guide Analysis
+# Complete University Guide Web Scraper and Analysis using R
 
 ## Background
 A web scraper project for the assignment of Web and Network Analytics (IST2334) on scrapping and analysing the Complete University Guide - a site that provides the top-ranked United Kingdom league universities for the year 2022 [[link](https://www.thecompleteuniversityguide.co.uk/league-tables/rankings?tabletype=full-table)] using R.
